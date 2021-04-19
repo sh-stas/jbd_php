@@ -1,0 +1,16 @@
+{
+  "name": "vendor_name/jbd",
+  "description": "description",
+  "minimum-stability": "stable",
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "user",
+      "email": "email@example.com"
+    }
+  ],
+  "require": {
+    "ext-curl": "*",
+    "ext-dom": "*"
+  }
+}
